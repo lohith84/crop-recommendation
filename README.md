@@ -11,6 +11,7 @@ A machine learning-powered system to recommend optimal crops for a given locatio
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [User Interface](#user-interface)
+- [Queries](#reach-out-for-queries)
 
 ## Overview
 
@@ -49,7 +50,7 @@ This project aims to provide farmers and agricultural professionals with accurat
    ```bash
    pip install -r requirements.txt
 
-# Application Usage
+## Usage
 
 ## How to Run the Application
 
@@ -66,9 +67,18 @@ This project aims to provide farmers and agricultural professionals with accurat
 
 ## User Interface
 
-### Screenshots or GIFs
+### Screenshot
 
-[Insert screenshots or GIFs demonstrating the UI's visual elements and functionality]
+![crop-view](./crop-view.png)
+
+## Reach Out for Queries
+
+If you have any questions, issues, feedback, or need assistance, feel free to reach out:
+
+- **Email:** [lohith2086@gmail.com](mailto:lohith2086@gmail.com)
+- **Contribute via Pull Request:** I welcome contributions! If you'd like to contribute to the development of this project or any issue regarding, please submit a pull request.
+
+I appreciate your interest in my Crop Recommendation System and look forward to hearing from you!
 
 
 
